@@ -75,7 +75,7 @@ toujours vendre.
 ## Contact
 
 - E-mail : ernestjesutinafaton@gmail.com
-- WhatsApp : +33 7 74 81 38 96
+
 
 ---
 
