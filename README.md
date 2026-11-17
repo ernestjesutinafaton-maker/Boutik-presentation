@@ -72,6 +72,11 @@ revient. Plusieurs appareils peuvent vendre en même temps, hors ligne : rien ne
 Paiement par MTN MoMo, Moov Money ou Celtiis Cash. Même en retard de paiement, la boutique peut
 toujours vendre.
 
+## En savoir plus
+
+- [Boutik : une caisse qui marche sans internet](https://ernestjesutinafaton-maker.github.io/journal/boutik-une-caisse-sans-internet) : les coulisses techniques, sur mon Journal.
+- [Le Monde d'Ernest](https://ernestjesutinafaton-maker.github.io/?lieu=marche) : mon portfolio, où Boutik a son bâtiment, le Marché.
+
 ## Contact
 
 - E-mail : ernestjesutinafaton@gmail.com
